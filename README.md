@@ -4,13 +4,13 @@
 
 <hr/>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=phegondev&hide=html,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&hide_border=false&layout=compact&border_color=0595de66)](https://github.com/phegondev)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=phegondev&hide=html,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile&theme=algolia&show_icons=true&hide_border=false&layout=compact&border_color=0595de66)](https://github.com/phegondev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=phegondev&theme=algolia&show_icons=true&hide_border=false&rank_icon=''&border_color=0595de66)](https://github.com/phegondev) 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phegondev&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://www.youtube.com/channel/UCId_tjtfN6OtnJmazL2a1zQ)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phegondev&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://www.youtube.com/channel/UCId_tjtfN6OtnJmazL2a1zQ) -->
 
 <hr/>
 <p align="left">
