@@ -14,9 +14,9 @@
 
 # Socials
 <p align="left">
-<!-- <a href="https://youtube.com/channel/UCId_tjtfN6OtnJmazL2a1zQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="phegondev" height="30" width="40" /></a>
-<a href="https://fb.com/phegondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phegondev" height="30" width="40" /></a> -->
-<a href="https://instagram.com/phegondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phegondev" height="30" width="40" /></a>
+<a href="https://youtube.com/channel/UCId_tjtfN6OtnJmazL2a1zQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="phegondev" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/phegondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="phegondev" height="30" width="40" /></a>
+<a href="https://instagram.com/phegondev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phegondev" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/dennisiluma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennisiluma" height="30" width="40" /></a>
 </p>
 
